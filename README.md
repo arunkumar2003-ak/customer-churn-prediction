@@ -32,5 +32,7 @@ Telco Customer Churn Dataset
 👨‍💻 Author
 Arun Kumar T
 
+## 📸 Output Screenshot
 
+![Prediction Output](output.png.png)
 
